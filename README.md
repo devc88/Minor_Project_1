@@ -13,7 +13,7 @@ Gourav Paul
 Dev Chauhan
 
 UNIVERSITY OF PETROLEUM AND ENERGY STUDIES, BIDHOLI, DEHRADUN, UTTRAKHAND, INDIA
-
+<hr>
 IMPLEMENTATION
 
 1.Target Folder
@@ -41,5 +41,5 @@ IMPLEMENTATION
 (B).Text Classification based on "Code or Script" in them
 
 <img width="960" alt="contentfile" src="https://user-images.githubusercontent.com/71458637/122083144-39dc1f00-ce1e-11eb-9fc6-6ac6b5866bbd.png">
-
+<hr>
 Completed!
